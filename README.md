@@ -1,5 +1,5 @@
 Oi, eu sou @Maidias88
-- 👀 Estou interessado em aprender a programar para uma transição de carreira e me tornar mais uma mulher no mundo dos códigos.
+- 👀 Estou interessada em aprender a programar para uma transição de carreira e me tornar mais uma mulher no mundo dos códigos.
 - 🌱 Iniciei o curso de Dev full stack na Tera
 
 <!---
